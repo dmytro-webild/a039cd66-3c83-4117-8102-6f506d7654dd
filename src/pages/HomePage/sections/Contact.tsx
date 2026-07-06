@@ -10,7 +10,7 @@ export default function ContactSection(): React.JSX.Element {
               <ContactSplitEmail
                 textAnimation="slide-up"
                 tag="Get In Touch"
-                title="Schedule Your Luxury Dental Experience"
+                title="Schedule Your Emergency Dentist Jacksonville Experience"
                 description="Connect with our team to discuss your smile goals and discover how our personalized treatments can transform your dental health and confidence."
                 inputPlaceholder="Enter your email"
                 buttonText="Get Started"
