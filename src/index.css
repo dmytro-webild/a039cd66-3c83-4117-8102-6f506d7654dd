@@ -5,15 +5,15 @@
 
 :root {
   /* Light theme with blue accents */
-  --background: #f7f6f7;
+  --background: #f8fafc;
   --card: #ffffff;
-  --foreground: #0c1325;
-  --primary-cta: #0798ff;
-  --primary-cta-text: #f7f6f7;
+  --foreground: #0f172a;
+  --primary-cta: #0284c7;
+  --primary-cta-text: #ffffff;
   --secondary-cta: #ffffff;
-  --secondary-cta-text: #0c1325;
-  --accent: #93c7ff;
-  --background-accent: #a8cde8;
+  --secondary-cta-text: #0284c7;
+  --accent: #64748b;
+  --background-accent: #e0f2fe;
 
   /* @layout/border-radius/soft */
   --radius: 1.5rem;
